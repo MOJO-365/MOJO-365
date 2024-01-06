@@ -35,7 +35,7 @@ We prioritize user experience and interface design to create visually appealing 
 Our expertise spans a wide range of technologies, including but not limited to:
 
 - Frontend: HTML, CSS, JavaScript, React, Angular, Vue.js
-- Backend: Node.js, Python, Ruby on Rails, PHP
+- Backend: Node.js, Python, Ruby on Rails,Java,PHP
 - Mobile: Swift (iOS), Kotlin (Android), React Native
 - Database: MySQL, PostgreSQL, MongoDB
 - Cloud: AWS, Azure, Google Cloud
